@@ -1,0 +1,16 @@
+[
+{
+  "modid": "milk",
+  "name": "Milk",
+  "description": "Create various tools and armor out of milk curds.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lord Ptolemy"],
+  "credits": "Lord Ptolemy",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["mod_MinecraftForge"]
+}
+]

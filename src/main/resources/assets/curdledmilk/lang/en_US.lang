@@ -1,0 +1,20 @@
+< Blocks >
+tile.curdle_block.name=Curdled Block
+
+< Items >
+item.curdle.name=Milk Curdle
+item.curdle_ingot.name=Curdled Ingot
+
+< Tools >
+item.curdle_axe.name=Curdled Axe
+item.curdle_pickaxe.name=Curdled Pickaxe
+item.curdle_spade.name=Curdled Spade
+item.curdle_sword.name=Curdled Sword
+item.curdle_hoe.name=Curdled Hoe
+
+< Armor >
+item.curdle_helmet.name=Curdled Helmet
+item.curdle_chestplate.name=Curdled Chestplate
+item.curdle_leggings.name=Curdled Leggings
+item.curdle_boots.name=Curdled Boots
+itemGroup.tabName=Curdled Milk Items
